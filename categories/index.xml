@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on IT</title>
-    <link>https://example.com/categories/</link>
+    <link>https://itshitiku.com/categories/</link>
     <description>Recent content in Categories on IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 21 Nov 2022 22:45:33 +0800</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 22:45:33 +0800</lastBuildDate><atom:link href="https://itshitiku.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sssss</title>
-      <link>https://example.com/categories/sssss/</link>
+      <link>https://itshitiku.com/categories/sssss/</link>
       <pubDate>Mon, 21 Nov 2022 22:45:33 +0800</pubDate>
       
-      <guid>https://example.com/categories/sssss/</guid>
+      <guid>https://itshitiku.com/categories/sssss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sss</title>
-      <link>https://example.com/categories/sss/</link>
+      <link>https://itshitiku.com/categories/sss/</link>
       <pubDate>Mon, 21 Nov 2022 22:15:37 +0800</pubDate>
       
-      <guid>https://example.com/categories/sss/</guid>
+      <guid>https://itshitiku.com/categories/sss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ddd</title>
-      <link>https://example.com/categories/ddd/</link>
+      <link>https://itshitiku.com/categories/ddd/</link>
       <pubDate>Mon, 21 Nov 2022 22:01:11 +0800</pubDate>
       
-      <guid>https://example.com/categories/ddd/</guid>
+      <guid>https://itshitiku.com/categories/ddd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>第一个分类</title>
-      <link>https://example.com/categories/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%88%86%E7%B1%BB/</link>
+      <link>https://itshitiku.com/categories/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%88%86%E7%B1%BB/</link>
       <pubDate>Mon, 21 Nov 2022 22:01:11 +0800</pubDate>
       
-      <guid>https://example.com/categories/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%88%86%E7%B1%BB/</guid>
+      <guid>https://itshitiku.com/categories/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%88%86%E7%B1%BB/</guid>
       <description></description>
     </item>
     

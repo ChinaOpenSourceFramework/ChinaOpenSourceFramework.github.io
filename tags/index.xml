@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on IT</title>
-    <link>https://example.com/tags/</link>
+    <link>https://itshitiku.com/tags/</link>
     <description>Recent content in Tags on IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 21 Nov 2022 22:45:33 +0800</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 22:45:33 +0800</lastBuildDate><atom:link href="https://itshitiku.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tagsss</title>
-      <link>https://example.com/tags/tagsss/</link>
+      <link>https://itshitiku.com/tags/tagsss/</link>
       <pubDate>Mon, 21 Nov 2022 22:45:33 +0800</pubDate>
       
-      <guid>https://example.com/tags/tagsss/</guid>
+      <guid>https://itshitiku.com/tags/tagsss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dss</title>
-      <link>https://example.com/tags/dss/</link>
+      <link>https://itshitiku.com/tags/dss/</link>
       <pubDate>Mon, 21 Nov 2022 22:15:37 +0800</pubDate>
       
-      <guid>https://example.com/tags/dss/</guid>
+      <guid>https://itshitiku.com/tags/dss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>第一个</title>
-      <link>https://example.com/tags/%E7%AC%AC%E4%B8%80%E4%B8%AA/</link>
+      <link>https://itshitiku.com/tags/%E7%AC%AC%E4%B8%80%E4%B8%AA/</link>
       <pubDate>Mon, 21 Nov 2022 22:01:11 +0800</pubDate>
       
-      <guid>https://example.com/tags/%E7%AC%AC%E4%B8%80%E4%B8%AA/</guid>
+      <guid>https://itshitiku.com/tags/%E7%AC%AC%E4%B8%80%E4%B8%AA/</guid>
       <description></description>
     </item>
     

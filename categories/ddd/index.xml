@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ddd on IT</title>
-    <link>https://example.com/categories/ddd/</link>
+    <link>https://itshitiku.com/categories/ddd/</link>
     <description>Recent content in ddd on IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 21 Nov 2022 22:01:11 +0800</lastBuildDate><atom:link href="https://example.com/categories/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 22:01:11 +0800</lastBuildDate><atom:link href="https://itshitiku.com/categories/ddd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://example.com/post/test/</link>
+      <link>https://itshitiku.com/post/test/</link>
       <pubDate>Mon, 21 Nov 2022 22:01:11 +0800</pubDate>
       
-      <guid>https://example.com/post/test/</guid>
+      <guid>https://itshitiku.com/post/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My First Post2</title>
-      <link>https://example.com/post/my-first-post2/</link>
+      <link>https://itshitiku.com/post/my-first-post2/</link>
       <pubDate>Sat, 21 Nov 2020 21:09:51 +0800</pubDate>
       
-      <guid>https://example.com/post/my-first-post2/</guid>
+      <guid>https://itshitiku.com/post/my-first-post2/</guid>
       <description>dddddddssss</description>
     </item>
     
