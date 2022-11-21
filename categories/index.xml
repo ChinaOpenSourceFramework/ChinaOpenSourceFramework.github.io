@@ -6,7 +6,16 @@
     <description>Recent content in Categories on IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 21 Nov 2022 22:15:37 +0800</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 22:45:33 +0800</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sssss</title>
+      <link>https://example.com/categories/sssss/</link>
+      <pubDate>Mon, 21 Nov 2022 22:45:33 +0800</pubDate>
+      
+      <guid>https://example.com/categories/sssss/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>sss</title>
       <link>https://example.com/categories/sss/</link>

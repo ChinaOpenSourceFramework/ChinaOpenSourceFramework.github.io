@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2022-11-21T22:15:37+08:00</lastmod>
+    <lastmod>2022-11-21T22:45:33+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-11-21T22:45:33+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2022-11-21T22:45:33+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/sssss/</loc>
+    <lastmod>2022-11-21T22:45:33+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2022-11-21T22:45:33+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/tagsss/</loc>
+    <lastmod>2022-11-21T22:45:33+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/testpubli/</loc>
+    <lastmod>2022-11-21T22:45:33+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/dd/</loc>
     <lastmod>2022-11-21T22:15:37+08:00</lastmod>
@@ -11,16 +29,7 @@
     <loc>https://example.com/tags/dss/</loc>
     <lastmod>2022-11-21T22:15:37+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2022-11-21T22:15:37+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2022-11-21T22:15:37+08:00</lastmod>
-  </url><url>
     <loc>https://example.com/categories/sss/</loc>
-    <lastmod>2022-11-21T22:15:37+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2022-11-21T22:15:37+08:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/ddd/</loc>

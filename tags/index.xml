@@ -6,7 +6,16 @@
     <description>Recent content in Tags on IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 21 Nov 2022 22:15:37 +0800</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 22:45:33 +0800</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tagsss</title>
+      <link>https://example.com/tags/tagsss/</link>
+      <pubDate>Mon, 21 Nov 2022 22:45:33 +0800</pubDate>
+      
+      <guid>https://example.com/tags/tagsss/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dss</title>
       <link>https://example.com/tags/dss/</link>
